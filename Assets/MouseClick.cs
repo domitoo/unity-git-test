@@ -29,7 +29,7 @@ public class MouseClick : MonoBehaviour {
 					countPoint.Point (2);
 					Destroy(target);
 				}
-			
+			//aaa
 			}else{
 				countPoint.Point (-1);
 		}
